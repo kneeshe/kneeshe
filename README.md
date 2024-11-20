@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo a minha masmorra!
 
 <!--
 **kneeshe/kneeshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Aqui vou subir meus estudos, meus testes e quaisquer loucuras que me vierem na cabeça.
+
+Alguma dúvida, sugestão ou só quer conversar? Fique a vontade para me mandar uma mensagem em **kneeshe.cr@gmail.com**
