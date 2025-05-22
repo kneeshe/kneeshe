@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Aqui vou subir meus estudos, meus testes e quaisquer loucuras que me vierem na cabeça.
 
 Alguma dúvida, sugestão ou só quer conversar? Fique a vontade para me mandar uma mensagem em **kneeshe.cr@gmail.com**
+
+![git](https://github.com/user-attachments/assets/f9e91943-2c85-4ff1-b7b3-6a7ba4ddf3da)
