@@ -11,4 +11,4 @@ Here i'll upload my studies, tests and whatever crazyness that comes to my mind.
 Alguma dúvida, sugestão ou só quer conversar? Fique a vontade para me mandar uma mensagem em **<kneeshe.cr@gmail.com>**  
 Any doubt, sugestion or just want to talk? Hit me at **<kneeshe.cr@gmail.com>**
 
-<img scr="/assets/anime_c.jpg" width="auto" height="auto">
+<img scr="assets/anime_c.jpg" width="auto" height="auto">
