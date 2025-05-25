@@ -12,6 +12,3 @@ Alguma dúvida, sugestão ou só quer conversar? Fique a vontade para me mandar 
 Any doubt, sugestion or just want to talk? Hit me at **<kneeshe.cr@gmail.com>**
 
 <img src="assets/tux.png" style="width:20%; height:auto"> <img src="assets/anime_c.jpg" style="width:20%; height:auto"> <img src="assets/arch.png" style="width:20%; height:auto">
-
-![image](https://github.com/user-attachments/assets/e4758b92-2666-4a91-8319-474dc5a75ef4)
-
