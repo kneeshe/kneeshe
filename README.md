@@ -1,22 +1,14 @@
-## Bem vindo a minha masmorra!
+# Bem vindo a minha masmorra! - # Welcome to my dungeon!
 
-<!--
-**kneeshe/kneeshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante de Ciências da Computação - ## Computer Science Student
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fascinado por sistemas Unix, ler sobre C e foss em geral.
+Fascinated about Unix systems, read about C and foss in general.
 
 Aqui vou subir meus estudos, meus testes e quaisquer loucuras que me vierem na cabeça.
+Here i'll upload my studies, tests and whatever crazyness that comes to my mind.
 
 Alguma dúvida, sugestão ou só quer conversar? Fique a vontade para me mandar uma mensagem em **kneeshe.cr@gmail.com**
+Any doubt, sugestion or just want to talk? Hit me at **kneeshe.cr@gmail.com**
 
-![git](https://github.com/user-attachments/assets/f9e91943-2c85-4ff1-b7b3-6a7ba4ddf3da)
+![image](https://github.com/user-attachments/assets/0924dcee-59e7-49dd-b4be-82b0142667e8) ![image](https://github.com/user-attachments/assets/7aa8f5d5-b9f6-435f-addf-90cf0ed77494)
